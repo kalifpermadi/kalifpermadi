@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Kalif! 👋
 
-<!--
-**kalifpermadi/kalifpermadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student from SMP Labschool Kebayoran who likes to code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kalifpermadi.github.io/portfolio-website)
+## 🛠 Skills
+Programming:
+- HTML
+- CSS
+- Javascript
+- PHP (learning)
+- C++ (learning)
+Language:
+- Indonesian
+- English
+- Japanese (learning)

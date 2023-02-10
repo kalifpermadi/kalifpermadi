@@ -12,6 +12,7 @@ Programming:
 - HTML
 - CSS
 - Javascript
+- Python
 - PHP (learning)
 - C++ (learning)
 

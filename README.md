@@ -6,7 +6,7 @@ I'm a student from SMP Labschool Kebayoran who likes to code.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kalifpermadi.github.io/portfolio-website)
+[![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kalifpermadi.github.io)
 ## 🛠 Skills
 Programming:
 - HTML

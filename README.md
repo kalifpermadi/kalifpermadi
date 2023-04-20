@@ -13,7 +13,6 @@ Programming:
 - CSS
 - Javascript
 - Python
-- PHP (learning)
 - C++ (learning)
 
 Language:

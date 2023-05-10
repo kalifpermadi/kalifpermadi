@@ -10,8 +10,8 @@ I'm a student from SMP Labschool Kebayoran who likes to code.
 ## 🛠 Skills
 Programming:
 - HTML
-- CSS
-- Javascript
+- CSS (Bootstrap, Tailwind)
+- Javascript (React)
 - Python
 - C++ (learning)
 
